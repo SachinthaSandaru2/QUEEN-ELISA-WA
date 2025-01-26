@@ -43,7 +43,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_AS_GIF: true,//this only work for short videos
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
-  OWNER_REACT: true,
+  OWNER_REACT: false,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
