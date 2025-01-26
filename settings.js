@@ -38,9 +38,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   STICKER_AUTHOR: 'ᴍʀ ꜱᴀᴄʜɪʏᴀ',
   STICKER_PACK: 'QUEEN ELISA',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90, //size in MB
+  MAXIMUM_FILESIZE: 500, //size in MB
   OWNER_R_EMOJI: '💻',
-  ALIVE_AS_GIF: false,//this only work for short videos
+  ALIVE_AS_GIF: true,//this only work for short videos
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
