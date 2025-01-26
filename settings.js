@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==QS5Z0TtkFe0FVc4hTUEpGTqNWVmFFa10UYZpUOyAnNi12Q4QFMiZTdrFmQjkVUZZlaON2bpwd=01916376749',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wdLpmY400UYhDMqh0YZRWMQp0ZzInWSpkcXRWe1s0aysEZzNla3ZjWVtGUjkkUaZFRw0kWpwd=01916376749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -26,7 +26,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://realsachiya00:ix41tIs2JM1VdEGU@cluster0.jvojn.mongodb.net/',
   PREFIX: '.$&',
   LANGUAGE: 'EN',
-  PORT: process.env.PORT || 3000,
+  PORT: process.env.PORT || 8000,
   BOT_NAME: 'queen elisa',
   OWNER_NAME: 'ᴍʀ ꜱᴀᴄʜɪʏᴀ',
   OWNER_NUMBER: '94767361910',
